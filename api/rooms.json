@@ -1,0 +1,650 @@
+{
+    "jsonrpc": "2.0",
+    "id": "2021-08-05 17:30:03.149957",
+    "result": [
+        {
+            "id": 74,
+            "name": "ALZ",
+            "longName": "Altes Lehrerzimmer",
+            "active": true,
+            "building": ""
+        },
+        {
+            "id": 80,
+            "name": "Bistro",
+            "longName": "Bistro",
+            "active": true,
+            "building": ""
+        },
+        {
+            "id": 82,
+            "name": "Bistro 2",
+            "longName": "Bistro 2",
+            "active": true,
+            "building": ""
+        },
+        {
+            "id": 11,
+            "name": "BK1",
+            "longName": "Kunstraum 1 (alt), OG gelb, 1. Eingang",
+            "active": true,
+            "building": ""
+        },
+        {
+            "id": 12,
+            "name": "BK2",
+            "longName": "Kunstraum 2 (neu), OG gelb, 2. Eingang",
+            "active": true,
+            "building": ""
+        },
+        {
+            "id": 13,
+            "name": "Che",
+            "longName": "Chemieraum, EG gelb, 1. Eingang",
+            "active": true,
+            "building": ""
+        },
+        {
+            "id": 53,
+            "name": "Foto",
+            "longName": "Fotolabor",
+            "active": true,
+            "building": ""
+        },
+        {
+            "id": 47,
+            "name": "Gr Hof",
+            "longName": "Gro\u00dfer Hof",
+            "active": true,
+            "building": ""
+        },
+        {
+            "id": 54,
+            "name": "Gr Hof 2",
+            "longName": "Gro\u00dfer Hof 2",
+            "active": true,
+            "building": ""
+        },
+        {
+            "id": 81,
+            "name": "Gr Hof 3",
+            "longName": "Gro\u00dfer Hof",
+            "active": true,
+            "building": ""
+        },
+        {
+            "id": 79,
+            "name": "Gr Hof - Neubau",
+            "longName": "Gro\u00dfer Hof - Neubau",
+            "active": true,
+            "building": ""
+        },
+        {
+            "id": 84,
+            "name": "Gr Hof - Neubau 2",
+            "longName": "Gro\u00dfer Hof - Neubau 2",
+            "active": true,
+            "building": ""
+        },
+        {
+            "id": 49,
+            "name": "Halle",
+            "longName": "Pausenhalle",
+            "active": true,
+            "building": ""
+        },
+        {
+            "id": 15,
+            "name": "Holz",
+            "longName": "Holzwerkstatt, EG gelb, 2. Eingang",
+            "active": true,
+            "building": ""
+        },
+        {
+            "id": 85,
+            "name": "I.0.6",
+            "longName": "Klassenraum 8a",
+            "active": true,
+            "building": ""
+        },
+        {
+            "id": 23,
+            "name": "II.0.3",
+            "longName": "K\u00fcche",
+            "active": true,
+            "building": ""
+        },
+        {
+            "id": 42,
+            "name": "II.0.4",
+            "longName": "Klassenraum 9b",
+            "active": true,
+            "building": ""
+        },
+        {
+            "id": 19,
+            "name": "II.0.5",
+            "longName": "Klassenraum 10c",
+            "active": true,
+            "building": ""
+        },
+        {
+            "id": 20,
+            "name": "II.0.6",
+            "longName": "Klassenraum 10d",
+            "active": true,
+            "building": ""
+        },
+        {
+            "id": 21,
+            "name": "II.0.7",
+            "longName": "Klassenraum 9a",
+            "active": true,
+            "building": ""
+        },
+        {
+            "id": 22,
+            "name": "II.0.8",
+            "longName": "Klassenraum 8c",
+            "active": true,
+            "building": ""
+        },
+        {
+            "id": 86,
+            "name": "II.1.1",
+            "longName": "Kleiner Konferenzraum",
+            "active": true,
+            "building": ""
+        },
+        {
+            "id": 29,
+            "name": "II.1.10",
+            "longName": "Klassenraum 9d",
+            "active": true,
+            "building": ""
+        },
+        {
+            "id": 52,
+            "name": "II.1.3",
+            "longName": "Musikraum II",
+            "active": true,
+            "building": ""
+        },
+        {
+            "id": 24,
+            "name": "II.1.6",
+            "longName": "Klassenraum 8d",
+            "active": true,
+            "building": ""
+        },
+        {
+            "id": 25,
+            "name": "II.1.7",
+            "longName": "Klassenraum 7c",
+            "active": true,
+            "building": ""
+        },
+        {
+            "id": 26,
+            "name": "II.1.8",
+            "longName": "Klassenraum 9c",
+            "active": true,
+            "building": ""
+        },
+        {
+            "id": 27,
+            "name": "II.1.9",
+            "longName": "Klassenraum 8b",
+            "active": true,
+            "building": ""
+        },
+        {
+            "id": 30,
+            "name": "III.0.2",
+            "longName": "Tonstudio",
+            "active": true,
+            "building": ""
+        },
+        {
+            "id": 36,
+            "name": "III.0.5",
+            "longName": "Klassenraum 6b",
+            "active": true,
+            "building": ""
+        },
+        {
+            "id": 37,
+            "name": "III.0.6",
+            "longName": "Klassenraum 7d",
+            "active": true,
+            "building": ""
+        },
+        {
+            "id": 32,
+            "name": "III.1.1",
+            "longName": "Klassenraum 5d",
+            "active": true,
+            "building": ""
+        },
+        {
+            "id": 33,
+            "name": "III.1.2",
+            "longName": "Klassenraum 5a",
+            "active": true,
+            "building": ""
+        },
+        {
+            "id": 38,
+            "name": "III.1.3",
+            "longName": "Klassenraum 7b",
+            "active": true,
+            "building": ""
+        },
+        {
+            "id": 39,
+            "name": "III.1.4",
+            "longName": "Klassenraum 6c",
+            "active": true,
+            "building": ""
+        },
+        {
+            "id": 34,
+            "name": "III.2.1",
+            "longName": "Klassenraum 5b",
+            "active": true,
+            "building": ""
+        },
+        {
+            "id": 35,
+            "name": "III.2.2",
+            "longName": "Klassenraum 5c",
+            "active": true,
+            "building": ""
+        },
+        {
+            "id": 40,
+            "name": "III.2.3",
+            "longName": "Klassenraum 6a",
+            "active": true,
+            "building": ""
+        },
+        {
+            "id": 41,
+            "name": "III.2.4",
+            "longName": "Klassenraum 7a",
+            "active": true,
+            "building": ""
+        },
+        {
+            "id": 51,
+            "name": "IV.1.1",
+            "longName": "Klassenraum 10a",
+            "active": true,
+            "building": ""
+        },
+        {
+            "id": 71,
+            "name": "IV.1.2",
+            "longName": "Klassenraum 10b",
+            "active": true,
+            "building": ""
+        },
+        {
+            "id": 44,
+            "name": "IV.1.7",
+            "longName": "Klassenraum IVK",
+            "active": true,
+            "building": ""
+        },
+        {
+            "id": 48,
+            "name": "Kl Hof",
+            "longName": "Kleiner Hof",
+            "active": true,
+            "building": ""
+        },
+        {
+            "id": 90,
+            "name": "Kl Hof 2",
+            "longName": "Kleiner Hof 2",
+            "active": true,
+            "building": ""
+        },
+        {
+            "id": 93,
+            "name": "K\u00fcche",
+            "longName": "K\u00fcche",
+            "active": true,
+            "building": ""
+        },
+        {
+            "id": 78,
+            "name": "Laubengang",
+            "longName": "Laubengang",
+            "active": true,
+            "building": ""
+        },
+        {
+            "id": 87,
+            "name": "Laubengang 2",
+            "longName": "Laubengang 2",
+            "active": true,
+            "building": ""
+        },
+        {
+            "id": 43,
+            "name": "Mensa",
+            "longName": "Mensa",
+            "active": true,
+            "building": ""
+        },
+        {
+            "id": 55,
+            "name": "Mensa 2",
+            "longName": "Mensa 2",
+            "active": true,
+            "building": ""
+        },
+        {
+            "id": 10,
+            "name": "Mu",
+            "longName": "Musikraum, OG blau",
+            "active": true,
+            "building": ""
+        },
+        {
+            "id": 73,
+            "name": "Mu 2",
+            "longName": "Musikraum 2",
+            "active": true,
+            "building": ""
+        },
+        {
+            "id": 68,
+            "name": "NaWi 1",
+            "longName": "NaWi 1 Neubau",
+            "active": true,
+            "building": ""
+        },
+        {
+            "id": 69,
+            "name": "NaWi 2",
+            "longName": "NaWi 2 Neubau",
+            "active": true,
+            "building": ""
+        },
+        {
+            "id": 58,
+            "name": "NaWi ALT",
+            "longName": "NaWI alt R. IV.0.1",
+            "active": true,
+            "building": ""
+        },
+        {
+            "id": 60,
+            "name": "NaWi Neu",
+            "longName": "NaWi Neubau",
+            "active": true,
+            "building": ""
+        },
+        {
+            "id": 77,
+            "name": "Neubau",
+            "longName": "Neubau",
+            "active": true,
+            "building": ""
+        },
+        {
+            "id": 46,
+            "name": "Pau",
+            "longName": "Pausenhalle",
+            "active": true,
+            "building": ""
+        },
+        {
+            "id": 75,
+            "name": "Pausenhalle",
+            "longName": "Pausenhalle",
+            "active": true,
+            "building": ""
+        },
+        {
+            "id": 83,
+            "name": "Pausenhalle 2",
+            "longName": "Pausenhalle 2",
+            "active": true,
+            "building": ""
+        },
+        {
+            "id": 16,
+            "name": "PC1",
+            "longName": "PC-Raum 1 (Windows), OG gelb, 1. Eingang",
+            "active": true,
+            "building": ""
+        },
+        {
+            "id": 17,
+            "name": "PC2",
+            "longName": "PC-Raum 2 (MAC), OG blau",
+            "active": true,
+            "building": ""
+        },
+        {
+            "id": 14,
+            "name": "Phy",
+            "longName": "Physikraum, EG gelb, 1. Eingang",
+            "active": true,
+            "building": ""
+        },
+        {
+            "id": 59,
+            "name": "Phy Neu",
+            "longName": "Physikraum Neubau",
+            "active": true,
+            "building": ""
+        },
+        {
+            "id": 67,
+            "name": "Physik",
+            "longName": "Physik R. IV.0.1",
+            "active": true,
+            "building": ""
+        },
+        {
+            "id": 9,
+            "name": "R.10",
+            "longName": "Klassenraum 7b, OG blau, Raum 10",
+            "active": true,
+            "building": ""
+        },
+        {
+            "id": 1,
+            "name": "R.2",
+            "longName": "Klassenraum 5a, EG blau, Raum 2",
+            "active": true,
+            "building": ""
+        },
+        {
+            "id": 2,
+            "name": "R.3",
+            "longName": "Klassenraum 5b, EG blau, Raum 3",
+            "active": true,
+            "building": ""
+        },
+        {
+            "id": 3,
+            "name": "R.4",
+            "longName": "Klassenraum 5c, EG blau, Raum 4",
+            "active": true,
+            "building": ""
+        },
+        {
+            "id": 4,
+            "name": "R.5",
+            "longName": "Klassenraum 5d, EG blau, Raum 5",
+            "active": true,
+            "building": ""
+        },
+        {
+            "id": 5,
+            "name": "R.6",
+            "longName": "Klassenraum 6a, OG blau, Raum 6",
+            "active": true,
+            "building": ""
+        },
+        {
+            "id": 6,
+            "name": "R.7",
+            "longName": "Klassenraum 6b, OG blau, Raum 7",
+            "active": true,
+            "building": ""
+        },
+        {
+            "id": 7,
+            "name": "R.8",
+            "longName": "Klassenraum 6c, OG blau, Raum 8",
+            "active": true,
+            "building": ""
+        },
+        {
+            "id": 8,
+            "name": "R.9",
+            "longName": "Klassenraum 7a, OG blau, Raum 9",
+            "active": true,
+            "building": ""
+        },
+        {
+            "id": 18,
+            "name": "Spo",
+            "longName": "Sporthalle",
+            "active": true,
+            "building": ""
+        },
+        {
+            "id": 70,
+            "name": "SPO NEU",
+            "longName": "Sporthalle Neubau",
+            "active": true,
+            "building": ""
+        },
+        {
+            "id": 56,
+            "name": "SportPl",
+            "longName": "Sportplatz",
+            "active": true,
+            "building": ""
+        },
+        {
+            "id": 57,
+            "name": "SportPl 2",
+            "longName": "Sportplatz 2",
+            "active": true,
+            "building": ""
+        },
+        {
+            "id": 88,
+            "name": "Sportplatz",
+            "longName": "Sportplatz",
+            "active": true,
+            "building": ""
+        },
+        {
+            "id": 89,
+            "name": "Sportplatz 2",
+            "longName": "Sportplatz 2",
+            "active": true,
+            "building": ""
+        },
+        {
+            "id": 91,
+            "name": "Sportplatz 3",
+            "longName": "Sportplatz 3",
+            "active": true,
+            "building": ""
+        },
+        {
+            "id": 92,
+            "name": "Sportplatz 4",
+            "longName": "Sportplatz 4",
+            "active": true,
+            "building": ""
+        },
+        {
+            "id": 28,
+            "name": "SPO Sch",
+            "longName": "Sporthalle Schierenberg",
+            "active": true,
+            "building": ""
+        },
+        {
+            "id": 72,
+            "name": "Theater",
+            "longName": "Theaterraum",
+            "active": true,
+            "building": ""
+        },
+        {
+            "id": 50,
+            "name": "Toil",
+            "longName": "Toilette",
+            "active": true,
+            "building": ""
+        },
+        {
+            "id": 76,
+            "name": "Toilette",
+            "longName": "Toilette",
+            "active": true,
+            "building": ""
+        },
+        {
+            "id": 45,
+            "name": "Ton",
+            "longName": "Tonstudio",
+            "active": true,
+            "building": ""
+        },
+        {
+            "id": 61,
+            "name": "VI.0.1",
+            "longName": "Klassenraum 13a",
+            "active": true,
+            "building": ""
+        },
+        {
+            "id": 62,
+            "name": "VI.0.3",
+            "longName": "Klassenraum 13b",
+            "active": true,
+            "building": ""
+        },
+        {
+            "id": 63,
+            "name": "VI.0.4",
+            "longName": "Klassenraum 11b",
+            "active": true,
+            "building": ""
+        },
+        {
+            "id": 64,
+            "name": "VI.0.5",
+            "longName": "Textilraum/Klassenraum 11a",
+            "active": true,
+            "building": ""
+        },
+        {
+            "id": 65,
+            "name": "VI.1.1",
+            "longName": "Klassenraum 12b",
+            "active": true,
+            "building": ""
+        },
+        {
+            "id": 66,
+            "name": "VI.1.3",
+            "longName": "Klassenraum 12a",
+            "active": true,
+            "building": ""
+        }
+    ]
+}

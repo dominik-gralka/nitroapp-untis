@@ -1,0 +1,235 @@
+{
+    "jsonrpc": "2.0",
+    "id": "2021-08-05 17:30:03.113947",
+    "result": [
+        {
+            "id": 158,
+            "name": "5a",
+            "longName": "Kl  R.II.1.2",
+            "active": true,
+            "teacher1": 47
+        },
+        {
+            "id": 159,
+            "name": "5b",
+            "longName": "Sr/Si   R.III.2.1",
+            "active": true,
+            "teacher1": 78,
+            "teacher2": 21
+        },
+        {
+            "id": 160,
+            "name": "5c",
+            "longName": "Go/Sc   R.III.2.2",
+            "active": true,
+            "teacher1": 28,
+            "teacher2": 35
+        },
+        {
+            "id": 161,
+            "name": "6a",
+            "longName": "S\u00fc   R.III.2.3",
+            "active": true,
+            "teacher1": 73,
+            "teacher2": 28
+        },
+        {
+            "id": 162,
+            "name": "6b",
+            "longName": "Wn/Hg   R. III.0.5",
+            "active": true,
+            "teacher1": 76,
+            "teacher2": 183
+        },
+        {
+            "id": 163,
+            "name": "6c",
+            "longName": "Re   R.III.1.4",
+            "active": true,
+            "teacher1": 10
+        },
+        {
+            "id": 164,
+            "name": "6d",
+            "longName": "Wi   R.III.1.1",
+            "active": true,
+            "teacher1": 20
+        },
+        {
+            "id": 165,
+            "name": "7a",
+            "longName": "Hp/Su   R.III.2.4",
+            "active": true,
+            "teacher1": 45,
+            "teacher2": 14
+        },
+        {
+            "id": 166,
+            "name": "7b",
+            "longName": "Ki/Kr  R.III.1.3",
+            "active": true,
+            "teacher1": 46,
+            "teacher2": 49
+        },
+        {
+            "id": 167,
+            "name": "7c",
+            "longName": "G\u00fc/Wt   R.II.1.7",
+            "active": true,
+            "teacher1": 181,
+            "teacher2": 25
+        },
+        {
+            "id": 168,
+            "name": "7d",
+            "longName": "Wi   R.III.0.6",
+            "active": true,
+            "teacher1": 20,
+            "teacher2": 86
+        },
+        {
+            "id": 169,
+            "name": "8a",
+            "longName": "Ju/Hl    R.I.0.6",
+            "active": true,
+            "teacher1": 37,
+            "teacher2": 5
+        },
+        {
+            "id": 170,
+            "name": "8b",
+            "longName": "Gt/Fr   R.II.1.9",
+            "active": true,
+            "teacher1": 152,
+            "teacher2": 2
+        },
+        {
+            "id": 171,
+            "name": "8c",
+            "longName": "Hk   R. II.0.8",
+            "active": true,
+            "teacher1": 61
+        },
+        {
+            "id": 172,
+            "name": "8d",
+            "longName": "Ta/Tl   R. II.1.6",
+            "active": true,
+            "teacher1": 55,
+            "teacher2": 86
+        },
+        {
+            "id": 173,
+            "name": "9a",
+            "longName": "Rw   R.II.0.7",
+            "active": true,
+            "teacher1": 85,
+            "teacher2": 44
+        },
+        {
+            "id": 174,
+            "name": "9b",
+            "longName": "Sl   R.II.0.4",
+            "active": true,
+            "teacher1": 13,
+            "teacher2": 2
+        },
+        {
+            "id": 175,
+            "name": "9c",
+            "longName": "Ro   R.II.1.8",
+            "active": true,
+            "teacher1": 12
+        },
+        {
+            "id": 176,
+            "name": "9d",
+            "longName": "Pe   R.II.1.10",
+            "active": true,
+            "teacher1": 34,
+            "teacher2": 86
+        },
+        {
+            "id": 177,
+            "name": "10a",
+            "longName": "Ha/Ka   R.IV.1.1",
+            "active": true,
+            "teacher1": 3,
+            "teacher2": 1
+        },
+        {
+            "id": 178,
+            "name": "10b",
+            "longName": "N\u00df/Du   R.IV.1.2",
+            "active": true,
+            "teacher1": 151,
+            "teacher2": 84
+        },
+        {
+            "id": 179,
+            "name": "10c",
+            "longName": "No   R.II.0.5",
+            "active": true,
+            "teacher1": 7
+        },
+        {
+            "id": 180,
+            "name": "10d",
+            "longName": "Li/Ht   R.II.0.6",
+            "active": true,
+            "teacher1": 83,
+            "teacher2": 32
+        },
+        {
+            "id": 181,
+            "name": "11a",
+            "longName": "Le   R.VI.0.5",
+            "active": true,
+            "teacher1": 184
+        },
+        {
+            "id": 182,
+            "name": "11b",
+            "longName": "Sd   R.VI.0.4",
+            "active": true,
+            "teacher1": 16
+        },
+        {
+            "id": 183,
+            "name": "12a",
+            "longName": "Hr   R. VI.1.3",
+            "active": true,
+            "teacher1": 4
+        },
+        {
+            "id": 184,
+            "name": "12b",
+            "longName": "Se/Sh   R.VI.1.1",
+            "active": true,
+            "teacher1": 15,
+            "teacher2": 17
+        },
+        {
+            "id": 185,
+            "name": "13a",
+            "longName": "Sz   R.VI.0.1",
+            "active": true,
+            "teacher1": 72
+        },
+        {
+            "id": 186,
+            "name": "13b",
+            "longName": "Ca   R.VI.0.3",
+            "active": true,
+            "teacher1": 180
+        },
+        {
+            "id": 187,
+            "name": "5d",
+            "longName": "Br/Sn   R.III.1.1",
+            "active": true,
+            "teacher1": 179,
+            "teacher2": 170
+        }
+    ]
+}
